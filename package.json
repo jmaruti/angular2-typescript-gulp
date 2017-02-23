@@ -16,7 +16,7 @@
   "author": "Rafał Borowiec",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kolorobot/angular2-typescript-gulp/issues"
+    "url": "https://github.com/jmaruti/angular2-typescript-gulp.git"
   },
   "dependencies": {
     "@angular/common": "~2.2.4",
